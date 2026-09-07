@@ -44,10 +44,12 @@ nirmiti@skillmesh-node:~$ neofetch --tech-stack
   Shell: bash / zsh
 ```
 
-### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3, SQL
-- **Frontend & Frameworks:** React, Next.js, Node.js, Express, TailwindCSS
-- **Databases & Cloud:** PostgreSQL, MongoDB, Docker, Git, Linux/Bash
+### 🛠️ Languages & Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,postgres,mongodb,docker,git,linux,tailwind,bash" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
@@ -57,10 +59,6 @@ nirmiti@skillmesh-node:~$ ./fetch_stats.sh --user Tamore
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamore&theme=terminal&hide_border=true" alt="Streak Stats" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/top-languages?username=Tamore&theme=dark" alt="Top Languages" height="170" />
 </p>
 
 ---
