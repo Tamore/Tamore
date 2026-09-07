@@ -1,21 +1,39 @@
-# 💫 About Me:
-## 👩‍💻 About Me:<br><br>🔭 I’m currently working on  <br>Building **SkillMesh** – an event-driven social platform for developers, and **NomNom** – an AI-powered recipe app using Supabase & Gemini  <br><br>👯 I’m looking to collaborate on  <br>Full-stack web apps, AI-integrated applications, and distributed systems projects  <br><br>🤝 I’m looking for help with  <br>Scaling event-driven architectures and improving system reliability  <br><br>🌱 I’m currently learning  <br>Distributed Systems, Event-Driven Architecture, Cloud Computing, and Backend Engineering  <br><br>💬 Ask me about  <br>Django, Supabase, Android (Jetpack Compose), SwiftUI, or building real-world projects from scratch  <br><br>⚡ Fun fact  <br>I design projects that double as **research work + portfolio projects** 🚀
+# Hi there, I'm Nirmiti R. Tamore 👋
 
+> **Distributed Systems Engineer | Cloud Technology | Event-Driven Architectures | Autonomous Systems**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirmititamore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmititamore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamorenirmiti@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tamore&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Tamore&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tamore&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tamore&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+[![Website](https://img.shields.io/badge/Live--Platform-SkillMesh.online-blue?style=flat-square&logo=googlechrome)](https://skillmesh.online)
+[![GitHub](https://img.shields.io/badge/GitHub-Tamore-181717?style=flat-square&logo=github)](https://github.com/Tamore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirmiti%20Tamore-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nirmiti-tamore)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tamore&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔬 Research & Systems Focus
+
+I engineer distributed, event-driven architectures and study system observability, trace context propagation, and worker reliability under heavy asynchronous workloads.
+
+- ⚙️ **Distributed Systems & Observability:** Designing multi-container coordination clusters, stream processing (Redis Streams), and W3C trace-context propagation (OpenTelemetry / Jaeger).
+- ☁️ **Cloud Technology & Infrastructure:** Building scalable applications with Django, FastAPI, Docker, and Supabase.
+- 🤖 **Autonomous AI Systems:** Researching and prototyping distributed multi-agent workflows and event-driven AI coordination.
+
+---
+
+### 🛠️ Featured Engineering Project
+
+#### 🌐 [SkillMesh v2](https://github.com/Tamore/SkillMesh)
+*A technical talent discovery platform and experimental distributed systems prototype for studying event-driven workflows, observability, and fault recovery.*
+
+- **Architecture:** Coordinator service node + Redis Streams event bus + Distributed Workers + OpenTelemetry/Jaeger observability.
+- **Production Web App:** [https://skillmesh.online](https://skillmesh.online)
+- **Key Features:** W3C-compatible trace context injection across asynchronous task boundaries, worker heartbeat monitoring, and distributed systems experiment baseline.
+
+---
+
+### 💻 Technical Stack
+
+```text
+Languages     : Python, C++, SQL, JavaScript, HTML5/CSS3
+Frameworks    : Django, FastAPI, Tailwind CSS
+Distributed   : Redis Streams, OpenTelemetry, Jaeger, Docker, Docker Compose
+Databases     : PostgreSQL, Supabase
+Tools & Cloud : Git, GitHub, Linux, Vercel, Google Cloud Platform
