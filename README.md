@@ -56,12 +56,12 @@ nirmiti@skillmesh-node:~$ ./fetch_stats.sh --user Tamore
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamore&show_icons=true&theme=terminal&hide_border=true&count_private=true" alt="Nirmiti's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamore&theme=terminal&hide_border=true" alt="Streak Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tamore&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Nirmiti's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamore&theme=dark&hide_border=true" alt="Streak Stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamore&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tamore&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
