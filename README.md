@@ -60,8 +60,7 @@ nirmiti@skillmesh-node:~$ ./fetch_stats.sh --user Tamore
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tamore&theme=gitdimmed" alt="Profile Details" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Tamore&theme=gitdimmed" alt="Top Languages" height="170" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/top-languages?username=Tamore&theme=dark" alt="Top Languages" height="170" />
 </p>
 
 ---
