@@ -47,7 +47,7 @@ nirmiti@skillmesh-node:~$ neofetch --tech-stack
 ### 🛠️ Languages & Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,postgres,mongodb,docker,git,linux,tailwind,bash" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,postgres,mongodb,docker,git,linux,tailwind,bash&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ nirmiti@skillmesh-node:~$ ./fetch_stats.sh --user Tamore
 ```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamore&theme=terminal&hide_border=true" alt="Streak Stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Tamore&theme=terminal&hide_border=true" alt="Streak Stats" height="170" />
 </p>
 
 ---
