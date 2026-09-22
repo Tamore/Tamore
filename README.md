@@ -53,12 +53,17 @@ nirmiti@dev:~$ whoami --verbose
 
 ### 📊 The Numbers
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tamore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=9CA3AF&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamore&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tamore&theme=github_dark" width="96%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tamore&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tamore&theme=github_dark" height="200" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tamore&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tamore&theme=github_dark&utcOffset=5" height="200" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Tamore&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280" />
+<img src="https://streak-stats.demolab.com?user=Tamore&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280" width="60%" />
 
 </div>
 
